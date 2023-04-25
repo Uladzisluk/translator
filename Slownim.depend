@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1611445424 source:c:\users\xiaomi\appdata\roaming\codeblocks\projects\cw pz\przykladowe tematy projektow\slownim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1611694059 source:c:\users\xiaomi\desktop\slownim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+	<winuser.h>
+
